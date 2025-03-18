@@ -11,9 +11,9 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 ## Integrantes
 
 * Elena Costa Athaides
-* Hudson
-* Josias
-* Iago
+* Hudson Gomes Machado
+* Josias Nicácio de Oliveira
+* Iago Maldonado Aguiar Oliveira
 * Igor Malfacini Dutra
 * Luiz
 * Marcelo Freitas
