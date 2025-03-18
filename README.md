@@ -14,7 +14,7 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 * Hudson
 * Josias
 * Iago
-* Igor Malfacini
+* Igor Malfacini Dutra
 * Luiz
 * Marcelo Freitas
 
