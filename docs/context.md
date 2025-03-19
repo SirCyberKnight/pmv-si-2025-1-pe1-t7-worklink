@@ -5,7 +5,9 @@ WorkLink é um projeto que visa conectar prestadores de serviços com potenciais
 ## Contextualização
 
 Atualmente, é possível se notar dificuldade no ramo de prestação de serviços, não só por parte daqueles os quais contratam os serviços, mas também pelos próprios profissionais responsáveis por eles. 
+
 Sem indicações ou informações prévias mediante o mercado local, a busca por prestadores de serviços é severamente impactada, principalmente para grupos vulneráveis.
+
 Ademais, é possível observar a dificuldade que o profissional enfrenta para possibilitar a visibilidade de seu trabalho, acabando por usufruir de meios de comunicação assim como WhatsApp, Facebook e outros para a divulgação de seus serviços e comunicação com potenciais clientes.
 
 ## Problema
