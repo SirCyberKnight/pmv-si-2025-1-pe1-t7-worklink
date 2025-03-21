@@ -1,4 +1,4 @@
-# Título do Projeto
+# WorkLink
 
 `CURSO: Sistemas de Informação`
 
@@ -6,7 +6,9 @@
 
 `SEMESTRE: 1º`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+O WorkLink é uma plataforma web desenvolvida para conectar prestadores de serviços a clientes que necessitam de pequenos reparos e serviços domiciliares. O projeto busca facilitar essa interação, garantindo segurança, praticidade e agilidade tanto para os clientes quanto para os profissionais.
+
+A plataforma permitirá que usuários encontrem prestadores de serviço avaliados por outros clientes, garantindo maior confiabilidade na contratação. Além disso, oferecerá opções de pagamento online, incluindo parcelamento, para facilitar as transações. Para os prestadores de serviço, o WorkLink funcionará como um canal de divulgação acessível e eficiente, auxiliando na captação de clientes e no fortalecimento da reputação no mercado.
 
 ## Integrantes
 
